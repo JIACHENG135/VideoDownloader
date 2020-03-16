@@ -5,7 +5,7 @@ A simple script help people download Youtube Video with keyword and transfer the
 ## 2. Also you have to configured [ffmpeg](http://ffmpeg.org/ "ffmpeg") successfully.
 
 ### Getting started
-
+- run in cmd `pip install pytube ffmpy bs4`
 - `videos = VideoToolKits()`
 - `videos._search("squat")`
 - `videos._convert()`

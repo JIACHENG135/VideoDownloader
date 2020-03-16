@@ -10,4 +10,4 @@ A simple script help people download Youtube Video with keyword and transfer the
 - `videos._search("squat")`
 - `videos._convert()`
 
-[alt text](https://github.com/JIACHENG135/VideoDownloader/demo.jpg "Logo Title Text 1")
+[alt text](https://github.com/JIACHENG135/VideoDownloader/VideoDownloader/blob/master/demo.jpg "Logo Title Text 1")
